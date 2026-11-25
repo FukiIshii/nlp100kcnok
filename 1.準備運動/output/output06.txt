@@ -1,0 +1,7 @@
+X: ['ad', 'ap', 'ar', 'di', 'is', 'pa', 'ra', 'se']
+Y: ['ag', 'ap', 'ar', 'gr', 'pa', 'ph', 'ra']
+和集合 X∪Y: ['ad', 'ag', 'ap', 'ar', 'di', 'gr', 'is', 'pa', 'ph', 'ra', 'se']
+積集合 X∩Y: ['ap', 'ar', 'pa', 'ra']
+差集合 X−Y: ['ad', 'di', 'is', 'se']
+'se' がXに含まれるか: True
+'se' がYに含まれるか: False

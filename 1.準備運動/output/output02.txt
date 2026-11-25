@@ -1,0 +1,2 @@
+元の文字列: stressed
+逆順の文字列: desserts

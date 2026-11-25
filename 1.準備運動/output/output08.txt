@@ -1,0 +1,4 @@
+元のメッセージ: Hello, NLP 2025! This is a secret message.
+暗号化: Hvool, NLP 2025! Tsrh rh z hvxivg nvhhztv.
+復号化: Hello, NLP 2025! This is a secret message.
+元に戻ったか: True

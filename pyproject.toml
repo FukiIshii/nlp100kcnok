@@ -1,0 +1,6 @@
+[project]
+name = "nlp100"
+version = "0.1.0"
+description = "言語処理100本ノック2025"
+requires-python = ">=3.12"
+dependencies = []
