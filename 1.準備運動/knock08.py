@@ -11,7 +11,7 @@ def cipher(text):
     return result
 
 # 実行と結果の表示（同じ関数をもう一度かけると元に戻る）
-message = "Hello, NLP 2025! This is a secret message."
+message = "Hello, NLP 2026! This is a secret message."
 encrypted = cipher(message)
 decrypted = cipher(encrypted)
 
